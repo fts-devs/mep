@@ -1,0 +1,38 @@
+{
+  "Segunda": [
+    "Frente A: Mecânica",
+    "1.0. Bases da Física",
+    "1.0. Bases da Física - Medição na Física",
+    "1.1. Bases da Física - Algarismos significativos",
+    "2.0. Vetores na Física",
+    "2.0. Vetores na Física - Grandezas escalares"
+  ],
+  "Terça": [
+    "2.2. Vetores na Física - Vetores no plano",
+    "2.3. Vetores na Física -  Multiplicação de um vetor por um número real",
+    "2.4. Vetores na Física - Adição de Vetores"
+  ],
+  "Quarta": [
+    "2.0. Vetores na Física",
+    "2.0. Vetores na Física - Grandezas escalares",
+    "2.1. Vetores na Física - Grandezas Vetoriais",
+    "2.2. Vetores na Física - Vetores no plano",
+    "2.3. Vetores na Física -  Multiplicação de um vetor por um número real"
+  ],
+  "Quinta": [
+    "6.0. Composição de Movimento - Composição de movimentos de mesma direção",
+    "6.1. Composição de Movimento - Composição de movimentos de direções quaisquer",
+    "6.2. Composição de Movimento - Velocidade Relativa"
+  ],
+  "Sexta": [
+    "2.5. Vetores na Física - Subtração de Vetores",
+    "2.6. Vetores na Física - Módulo de um vetor [Caso I]",
+    "2.7. Vetores na Física - Módulo de um vetor [Caso II] [Lei dos Cossenos]",
+    "2.8. Vetores na Física - Módulo de um vetor [Caso III] [Lei dos senos]",
+    "2.9. Vetores na Física - Produto Escalar entre dois Vetores"
+  ],
+  "Sábado": [
+    "3.12. Cinemática Escalar - Estudo do gráfico da posição no MRUV",
+    "3.13. Cinemática Escalar - Estudo do gráfico da veocidade no MRUV"
+  ]
+}
