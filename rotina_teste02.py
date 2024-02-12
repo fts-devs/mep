@@ -58,9 +58,9 @@ def gerar_cronograma():
         aulas_por_dia = 2
         if 20 < n_s <= 30:
             if 1.5 <= tempo_diario <= 2:
-                aulas_por_dia = 3
+                aulas_por_dia = 2
             elif 2.5 <= tempo_diario <= 3:
-                aulas_por_dia = 4
+                aulas_por_dia = 3
             elif 3.5 <= tempo_diario <= 4:
                 aulas_por_dia = 5
         elif 15 <= n_s <= 20:
@@ -102,6 +102,6 @@ def gerar_cronograma():
             file.write(f'- Exemplos resolvidos: {dia["Exemplos resolvidos"]}\n')
             file.write(f'- Questões da lista: {dia["Questões da lista"]}\n')
             file.write(f'- Tempo de estudo: {dia["Tempo de estudo"]}\n\n')
-
+    print(f'Cronograma gerado com sucesso,{nome_aluno}!')
 
 gerar_cronograma()
